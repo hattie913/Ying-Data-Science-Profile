@@ -1,4 +1,4 @@
-# Ying-s-Data-Science-Profile
+# Ying's-Data-Science-Profile
 Project Demo
 
 # Project 1
