@@ -16,5 +16,5 @@ Users can compare and overview the change of vcaccination implementations and da
 
 
 # Project 2
-# [Bigfoot Sightings Analysis Report](https://github.com/hattie913/Project-2-Bigfoot)
+# [Bigfoot Sightings Analysis Report](https://github.com/hattie913/Project-2-Bigfoot/blob/main/Bigfoot_sightings_analysis_report.ipynb)
 This report analyzes the Bigfoot records in the United States using Python. We study the Bigfoot sightings across the counties, Bigfoot sightings between 1921 and 2018, narrative of Bigfoot sightings, the comparison between Bigfoot sightings per county and population, and the comparison between Bigfoot sightings per county and mid temperature.
