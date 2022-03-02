@@ -2,7 +2,7 @@
 Project Demo
 
 # Project 1
-# [Python Dashboard (MA705 final Project)](https://github.com/hattie913/ma705-Project-PythonDashboard)
+# [Python Dashboard (MA705 final Project)](https://ma705covid19-project.herokuapp.com/)
 This repository contains files used in the MA705 dashboard project: 
 "2021 Covid-19 Cases and Vaccinations in Most Populous States in the United States".
 
