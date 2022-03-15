@@ -14,6 +14,8 @@ The dashboard demonstrates how Covid-19 cases and new doses of vaccinations impl
 
 Users can compare and overview the change of vcaccination implementations and daily counts of Covid-19 cases across those big states on the real-time, interactive time series graph, and get more detailed information on the table at the bottom.
 
+## [Python Code ](https://github.com/hattie913/ma705-Project-PythonDashboard)
+
 ### Data Sources
 
 Data from this dashboard was collected from [Centers for Disease Control and Prevention](https://covid.cdc.gov/covid-data-tracker/#cases_casesper100klast7days), and [Our World in Data](https://ourworldindata.org/us-states-vaccinations).
