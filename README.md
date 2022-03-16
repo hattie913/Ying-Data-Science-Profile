@@ -5,9 +5,9 @@ Project Demo
 # [Python Dashboard (Data Science MA705 Individual Final Project)](https://ma705covid19-project.herokuapp.com/)
 
 
-The final dashboard of "Realtime Covid-19 Cases and Vaccinations in Most Populous States in the United States" is deployed on Heroku [here](https://ma705covid19-project.herokuapp.com/)
+The final dashboard of "Realtime Covid-19 Cases and Vaccinations in Most Populous States in the United States" is deployed on Heroku [Click here](https://ma705covid19-project.herokuapp.com/)
 
-For Python code, please check out [Click Here: Python Code ](https://github.com/hattie913/ma705-Project-PythonDashboard)
+For Python code, please check out [Here: Python Code ](https://github.com/hattie913/ma705-Project-PythonDashboard)
 
 ## Dashboard Description
 
