@@ -1,8 +1,8 @@
 # Ying's-Data-Science-Profile
 Project Demo
 
-# Project 1
-# [Python Dashboard (MA705 final Project)](https://ma705covid19-project.herokuapp.com/)
+# Python Project 1
+# [Python Dashboard (Data Science MA705 Individual Final Project)](https://ma705covid19-project.herokuapp.com/)
 This repository contains files used in the MA705 dashboard project: 
 "2021 Covid-19 Cases and Vaccinations in Most Populous States in the United States".
 
@@ -35,6 +35,6 @@ The 'realtime_Covid.py' file generates the target dataset for analyzing. The raw
 \* Variable interpretation is based on the original interpretation of the raw dataset.
 For more detailed information, please refer to: https://github.com/owid/covid-19-data/edit/master/public/data/vaccinations/README.md 
 
-# Project 2
+# Python Project 2 
 # [Bigfoot Sightings Analysis Report](https://github.com/hattie913/Project-2-Bigfoot/blob/main/Bigfoot_sightings_analysis_report.ipynb)
 This report analyzes the Bigfoot records in the United States using Python. We study the Bigfoot sightings across the counties, Bigfoot sightings between 1921 and 2018, narrative of Bigfoot sightings, the comparison between Bigfoot sightings per county and population, and the comparison between Bigfoot sightings per county and mid temperature.
