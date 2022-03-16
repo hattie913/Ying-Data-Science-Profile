@@ -7,7 +7,7 @@ Project Demo
 
 The final dashboard of "Realtime Covid-19 Cases and Vaccinations in Most Populous States in the United States" is deployed on Heroku [Click here](https://ma705covid19-project.herokuapp.com/)
 
-For Python code, please check out [Here: Python Code ](https://github.com/hattie913/ma705-Project-PythonDashboard)
+For the details and Python code, please check out [Here: Python Code ](https://github.com/hattie913/ma705-Project-PythonDashboard)
 
 ## Dashboard Description
 
@@ -38,4 +38,4 @@ For more detailed information, please refer to: https://github.com/owid/covid-19
 # [Bigfoot Sightings Analysis Report](https://github.com/hattie913/Project-2-Bigfoot/blob/main/Bigfoot_sightings_analysis_report.ipynb)
 This report analyzes the Bigfoot records in the United States using Python. We study the Bigfoot sightings across the counties, Bigfoot sightings between 1921 and 2018, narrative of Bigfoot sightings, the comparison between Bigfoot sightings per county and population, and the comparison between Bigfoot sightings per county and mid temperature.
 
-For Python code, please check out [here: python Code](https://github.com/hattie913/Project-2-Bigfoot)
+For the details and Python code, please check out [here: python Code](https://github.com/hattie913/Project-2-Bigfoot)
