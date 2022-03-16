@@ -2,7 +2,7 @@
 Project Demo
 
 # Python Project 1
-# [Python Dashboard (Data Science MA705 Individual Final Project)](https://ma705covid19-project.herokuapp.com/)
+# [Covid19 Python Dashboard (Data Science MA705 Individual Final Project)](https://ma705covid19-project.herokuapp.com/)
 
 
 The final dashboard of "Realtime Covid-19 Cases and Vaccinations in Most Populous States in the United States" is deployed on Heroku [Click here](https://ma705covid19-project.herokuapp.com/)
