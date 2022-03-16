@@ -8,7 +8,7 @@ This repository contains files used in the MA705 dashboard project:
 
 The final dashboard is deployed on Heroku [here](https://ma705covid19-project.herokuapp.com/)
 
-[Python Code ](https://github.com/hattie913/ma705-Project-PythonDashboard)
+For Python code, please check out [here: Python Code ](https://github.com/hattie913/ma705-Project-PythonDashboard)
 
 ## Dashboard Description
 
