@@ -4,7 +4,7 @@ Project Demo
 # Deep Learning Project
 # [Malaria Detection Using AI-based tool](https://github.com/hattie913/Malaria_Detection_CNN_Model/blob/main/Notebook_Malaria_Detection_Full_Code.ipynb)
 
-## Introduction 
+### Introduction 
 The traditional manual microscopic diagnosis is time-consuming and test results vary among observers. This project proposed a AI-based malaria detection model leveraging Convolutional Neural Networks (CNNs) to accurately identify malaria parasites (with accuracy of 98.4%) in blood smear miscroscopic images. 
 
 The key questions for this project is to answer:
