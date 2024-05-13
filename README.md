@@ -30,7 +30,7 @@ The aim of this project is to predict the number depicted inside the image by us
 The dataset is provided as a .h5 file. 
 
 # Data Analysis and Data Visulization Project 1
-# [Food Hub marketing Analysis](https://github.com/hattie913/Restuarant-Marketing-Analysis/blob/main/FDS_Project_github.ipynb)
+# [Restaurant marketing Analysis](https://github.com/hattie913/Restuarant-Marketing-Analysis/blob/main/FDS_Project_github.ipynb)
 ### Introduction
 The food aggregator company has stored the data of the different orders made by the registered customers in their online portal. This project is to understand the demand of different restaurants/cuisines, and provide data-driven insights for the growth and improvement for a better customer experience.
 ### Data Description 
