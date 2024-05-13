@@ -29,7 +29,24 @@ The aim of this project is to predict the number depicted inside the image by us
 ### Data Description
 The dataset is provided as a .h5 file. 
 
-# Python Project 1
+# Data Analysis and Data Visulization Project 1
+# [Street View Housing Number Digit Recognition]()
+### Introduction
+The food aggregator company has stored the data of the different orders made by the registered customers in their online portal. This project is to understand the demand of different restaurants/cuisines, and provide data-driven insights for the growth and improvement for a better customer experience.
+### Data Description 
+The data contains the different data related to a food order and is stored in .csv file.
+
+# Data Analysis and Data Visulization Project 2
+# [Bigfoot Sightings Analysis Report](https://github.com/hattie913/Project-2-Bigfoot/blob/main/Bigfoot_sightings_analysis_report.ipynb)
+### Introduction
+This report analyzes the Bigfoot records in the United States using Python. We study the Bigfoot sightings across the counties, Bigfoot sightings between 1921 and 2018, narrative of Bigfoot sightings, the comparison between Bigfoot sightings per county and population, and the comparison between Bigfoot sightings per county and mid temperature.
+
+### The Data Set
+The original dataset on the Bigfoot sightings in the United States consists of 4747 entries with geographical, climate, date, classification, and observation variables. Other datasets include bigfoot_geo, county data and county labels. A variable check conducted later in the analysis will eliminate data entries that are missing values.
+
+For the details and Python code, please check out [here: python Code](https://github.com/hattie913/Project-2-Bigfoot)
+
+# Python Dashboard Project
 # [Covid19 Python Dashboard (Data Science MA705 Individual Final Project)](https://ma705covid19-project.herokuapp.com/)
 
 
@@ -62,12 +79,4 @@ The 'realtime_Covid.py' file generates the target dataset for analyzing. The raw
 Variable interpretation is based on the original interpretation of the raw dataset.
 For more detailed information, please refer to: https://github.com/owid/covid-19-data/edit/master/public/data/vaccinations/README.md 
 
-# Python Project 2 
-# [Bigfoot Sightings Analysis Report](https://github.com/hattie913/Project-2-Bigfoot/blob/main/Bigfoot_sightings_analysis_report.ipynb)
-### Introduction
-This report analyzes the Bigfoot records in the United States using Python. We study the Bigfoot sightings across the counties, Bigfoot sightings between 1921 and 2018, narrative of Bigfoot sightings, the comparison between Bigfoot sightings per county and population, and the comparison between Bigfoot sightings per county and mid temperature.
 
-### The Data Set
-The original dataset on the Bigfoot sightings in the United States consists of 4747 entries with geographical, climate, date, classification, and observation variables. Other datasets include bigfoot_geo, county data and county labels. A variable check conducted later in the analysis will eliminate data entries that are missing values.
-
-For the details and Python code, please check out [here: python Code](https://github.com/hattie913/Project-2-Bigfoot)
