@@ -23,7 +23,7 @@ Uninfected: The uninfected cells are free of the Plasmodium parasites (12376 cel
 Acknowledgements: This dataset was taken from the National Institutes of Health (NIH) website (https://www.nih.gov/, accessed on 11 August 2022) and contains 27,558 photos, including 15,376 uninfected cell images and 15,582 infected cell images.
 
 # Deep Learning Project 2
-# [Street View Housing Number Digit Recognition]
+# [Street View Housing Number Digit Recognition](https://github.com/hattie913/DeepLearning_SVHN-digit-recognition/blob/main/SVHN_Digit_Recognition_GitVersion.ipynb)
 ### Introduction 
 The aim of this project is to predict the number depicted inside the image by using Artificial or Fully Connected Feed Forward Neural Networks and Convolutional Neural Networks. We compare different models  and finally select the one with the best performance.
 ### Data Description
