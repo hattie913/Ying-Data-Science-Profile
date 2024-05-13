@@ -47,7 +47,7 @@ The original dataset on the Bigfoot sightings in the United States consists of 4
 For the details and Python code, please check out [here: python Code](https://github.com/hattie913/Project-2-Bigfoot)
 
 # Python Dashboard Project
-# [Covid19 Python Dashboard (Data Science MA705 Individual Final Project)](https://ma705covid19-project.herokuapp.com/)
+# [Covid19 Python Dashboard](https://ma705covid19-project.herokuapp.com/)
 
 
 The final dashboard of "Realtime Covid-19 Cases and Vaccinations in Most Populous States in the United States" is deployed on Heroku [Click here](https://ma705covid19-project.herokuapp.com/)
