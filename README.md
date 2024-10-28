@@ -32,7 +32,7 @@ Categories:
 ---
 
 # Deep Learning Project 2
-## Street View Housing Number Digit Recognition
+## Street View Housing Number Digit Recognition(https://github.com/hattie913/DeepLearning_SVHN-digit-recognition/blob/main/SVHN_Digit_Recognition_GitVersion.ipynb)
 
 ### Project Overview
 This project aims to develop a neural network model to recognize digit images from the **SVHN (Street View House Numbers)** dataset. This dataset contains over 600,000 labeled digits cropped from street-level photos, making it an excellent resource for training models to automate address transcription, thereby enhancing map applications by identifying building addresses from street images.
